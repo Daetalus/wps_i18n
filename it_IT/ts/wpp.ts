@@ -1894,7 +1894,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizzato</translation>
     </message>
     <message>
         <source>H&amp;eight:</source>
@@ -2304,7 +2304,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizzato</translation>
     </message>
     <message>
         <source>Edit Color Schemes</source>
@@ -2686,7 +2686,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxFormatTableDlg</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizzato</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
@@ -2902,7 +2902,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxPageSetupDlg</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizzato</translation>
     </message>
 </context>
 <context>
@@ -4346,7 +4346,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normale</translation>
     </message>
     <message>
         <source>Notes pages</source>
@@ -4520,7 +4520,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo di testo</translation>
     </message>
     <message>
         <source>Top</source>

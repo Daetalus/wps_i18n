@@ -155,7 +155,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizzato</translation>
     </message>
     <message>
         <source>HSL</source>
@@ -1172,7 +1172,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizzato</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
@@ -1380,7 +1380,7 @@
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>In basso</translation>
     </message>
 </context>
 <context>
@@ -2139,7 +2139,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Proprietà</translation>
     </message>
 </context>
 <context>
@@ -2607,7 +2607,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo di testo</translation>
     </message>
 </context>
 <context>
@@ -2656,7 +2656,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <name>KxInputDialogCommand</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizzato</translation>
     </message>
     <message>
         <source>Custom:</source>
@@ -3996,7 +3996,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linea</translation>
     </message>
     <message>
         <source>cbBeginSize</source>
@@ -5125,7 +5125,7 @@ or Web Page</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizzato</translation>
     </message>
     <message>
         <source>Date</source>
@@ -5153,7 +5153,7 @@ or Web Page</source>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppo</translation>
     </message>
     <message>
         <source>Hi&amp;dden</source>

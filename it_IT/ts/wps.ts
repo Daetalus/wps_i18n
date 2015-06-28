@@ -432,7 +432,7 @@
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Orizzontale</translation>
     </message>
     <message>
         <source>In fro&amp;nt of text</source>
@@ -452,11 +452,11 @@
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linea</translation>
     </message>
     <message>
         <source>Margin</source>
@@ -488,7 +488,7 @@
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <source>S&amp;quare</source>
@@ -516,7 +516,7 @@
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Verticale</translation>
     </message>
     <message>
         <source>Wrap text</source>
@@ -575,7 +575,7 @@
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Colonne</translation>
     </message>
     <message>
         <source>Line &amp;between</source>
@@ -658,7 +658,7 @@
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <source>Lin&amp;k level to style:</source>
@@ -686,7 +686,7 @@
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <source>Space</source>
@@ -1981,7 +1981,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Combine Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Combina caratteri</translation>
     </message>
 </context>
 <context>
@@ -2392,7 +2392,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <source>N&amp;umber position</source>
@@ -2408,7 +2408,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <source>Text position</source>
@@ -3113,7 +3113,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linea</translation>
     </message>
     <message>
         <source>Ma&amp;tch suffix</source>
@@ -3340,7 +3340,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normale</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -3593,7 +3593,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Griglia</translation>
     </message>
     <message>
         <source>Grid &amp;color:</source>
@@ -4321,7 +4321,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Proprietà</translation>
     </message>
     <message>
         <source>Style &amp;based on:</source>
@@ -4402,7 +4402,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Proprietà</translation>
     </message>
     <message>
         <source>Style &amp;based on:</source>
@@ -5045,7 +5045,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <source>Left border</source>
@@ -5277,7 +5277,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <source>Right border</source>
@@ -5361,7 +5361,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrato</translation>
     </message>
     <message>
         <source>Summary &amp;information</source>
@@ -5525,7 +5525,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <source>Middle</source>
@@ -5553,7 +5553,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <source>Start &amp;at:</source>
@@ -5732,7 +5732,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Colonne</translation>
     </message>
     <message>
         <source>Continuous</source>
@@ -5776,7 +5776,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Griglia</translation>
     </message>
     <message>
         <source>H&amp;eight:</source>
@@ -5804,7 +5804,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <source>Line &amp;between</source>
@@ -5832,7 +5832,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normale</translation>
     </message>
     <message>
         <source>Odd page</source>
@@ -6111,7 +6111,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <source>Level 1 </source>
@@ -6183,7 +6183,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <source>Single</source>
@@ -6298,7 +6298,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
@@ -6314,7 +6314,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <source>pt</source>
@@ -6417,7 +6417,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Sequenza</translation>
     </message>
     <message>
         <source>Pa&amp;ges:</source>
@@ -6635,7 +6635,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Orizzontale</translation>
     </message>
     <message>
         <source>Inside</source>
@@ -6643,7 +6643,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <source>Margin</source>
@@ -6675,7 +6675,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <source>Table Positioning</source>
@@ -6687,7 +6687,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Verticale</translation>
     </message>
     <message>
         <source>pt, -2, -1584, 1584, 1</source>
@@ -7943,7 +7943,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>In basso</translation>
     </message>
     <message>
         <source>Up</source>
@@ -8634,7 +8634,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normale</translation>
     </message>
     <message>
         <source>Right alignment</source>
@@ -8837,7 +8837,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <source>Left alignment</source>
@@ -8861,11 +8861,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normale</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <source>Right alignment</source>
@@ -9089,7 +9089,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizzato</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for page setup?
@@ -10200,7 +10200,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizzato</translation>
     </message>
     <message>
         <source>DISTRIBUTE</source>
@@ -10224,11 +10224,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Orizzontale</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <source>ORIGINAL</source>
@@ -10252,7 +10252,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <source>SAMPLE</source>
@@ -10533,7 +10533,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normale</translation>
     </message>
     <message>
         <source>Templates</source>
@@ -10802,7 +10802,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normale</translation>
     </message>
     <message>
         <source>Right: %1 %2</source>
@@ -11010,7 +11010,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Quadrato</translation>
     </message>
     <message>
         <source>Through</source>
@@ -11018,11 +11018,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>Stretto</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Superiore e Inferiore</translation>
     </message>
 </context>
 <context>
@@ -11428,7 +11428,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsTextOrientationModel</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Orizzontale</translation>
     </message>
     <message utf8="true">
         <source>Rotate All Text 270°</source>
@@ -11462,7 +11462,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsWaterMarkGalleryModel</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizzato</translation>
     </message>
 </context>
 <context>

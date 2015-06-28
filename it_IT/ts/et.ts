@@ -1661,7 +1661,7 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppo</translation>
     </message>
 </context>
 <context>
@@ -2594,7 +2594,7 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgGroupOutlineSettings</name>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Direzione</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -3215,7 +3215,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>In basso</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -3307,7 +3307,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <source>List &amp;entries:</source>
@@ -3383,7 +3383,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <source>Rules</source>
@@ -4094,7 +4094,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Sequenza</translation>
     </message>
     <message>
         <source>Pa&amp;ges</source>
@@ -5096,7 +5096,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Separa</translation>
     </message>
 </context>
 <context>
@@ -5188,7 +5188,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizzato</translation>
     </message>
     <message>
         <source>Data Validation</source>
@@ -5644,11 +5644,11 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Proprietà</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo di testo</translation>
     </message>
 </context>
 <context>
@@ -6948,7 +6948,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>Pieno</translation>
     </message>
     <message>
         <source>Thick Diagonal crosshatch</source>
@@ -7575,7 +7575,7 @@ system will remind checking the correctness of the contents.
     <name>KxSortOptionsDlg</name>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normale</translation>
     </message>
 </context>
 <context>
@@ -7995,7 +7995,7 @@ t</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <source>Left-to-Right</source>
@@ -8007,7 +8007,7 @@ t</source>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <source>Right-to-Left</source>
@@ -8086,7 +8086,7 @@ t</source>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linea</translation>
     </message>
     <message>
         <source>Presets</source>
@@ -8220,7 +8220,7 @@ t</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizzato</translation>
     </message>
     <message>
         <source>Date</source>
@@ -8698,7 +8698,7 @@ t</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Orizzontale</translation>
     </message>
     <message>
         <source>Horizontal Distributed</source>
@@ -8738,7 +8738,7 @@ t</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <source>Light Blue</source>
@@ -8866,7 +8866,7 @@ t</source>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <source>Rose</source>
@@ -8962,7 +8962,7 @@ t</source>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrato</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -9026,7 +9026,7 @@ t</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Verticale</translation>
     </message>
     <message>
         <source>Vertical Center Aligned</source>
@@ -9724,7 +9724,7 @@ t</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normale</translation>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
